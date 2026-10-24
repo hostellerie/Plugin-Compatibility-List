@@ -12,7 +12,7 @@ A maintained inventory of the [Geeklog-Plugins](https://github.com/Geeklog-Plugi
 | ---: | ---: | ---: | ---: |
 | 7 | 47 | 0 | 54 |
 
-**Compatibility labels:** 🟢 Bundled with core · 🟠 Needs verification · 🔵 In development / review · 🔴 Known legacy concern. **No third-party plugin is marked verified solely from repository metadata.**
+**Compatibility labels:** 🟢 Bundled with core · 🟠 Needs verification · 🔵 In development / review · 🔴 Known legacy concern. **No third-party plugin is marked verified solely from repository metadata.** PHP 5.6 / 8.1 maintainer reports are distinguished from independently verified results.
 
 ## Directory — Geeklog 2.2.2
 
@@ -73,7 +73,7 @@ A maintained inventory of the [Geeklog-Plugins](https://github.com/Geeklog-Plugi
 | [vthemes](https://github.com/Geeklog-Plugins/vthemes) | Geeklog-Plugins | 1.6.1 | ? | ? | ? | ? | 🟠 Not verified |
 | [**Xmlsitemap**](https://github.com/Geeklog-Core/geeklog) | Core bundled | Bundled | ? | ? | ? | ? | 🟢 Bundled |
 
-¹ Versions obtained from the latest published GitHub Releases for 33 repositories on 2026-10-24; “—” means no latest release was confirmed (it does not imply the project has no tags or usable version).
+¹ Latest versions are based on available GitHub Releases checked on 2026-10-24; “—” indicates no latest release returned. PHP **Reported** means the maintainer reports support for recently worked-on plugins, not independent per-tag verification. **?** = unknown; **Core** = depends on the bundled Geeklog release. PHP 7.4 and 8.0 are not inferred from tests on PHP 5.6 and 8.1.
 
 **PHP support:** “Reported” means the maintainer reports PHP 5.6 and PHP 8.1 compatibility for recently worked-on plugins; the precise release/environment is not independently tested in this directory. “?” means not yet verified. PHP 7.4 or PHP 8.0 support must not be inferred automatically from tests on PHP 5.6 and PHP 8.1. Core compatibility and plugin release compatibility are separate claims.
 
