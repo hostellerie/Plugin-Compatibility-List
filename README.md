@@ -10,7 +10,7 @@ A maintained inventory of the [Geeklog-Plugins](https://github.com/Geeklog-Plugi
 
 | Core bundled | Geeklog-Plugins projects | Additional hostellerie projects | Total listed |
 | ---: | ---: | ---: | ---: |
-| 7 | 47 | 13 | 67 |
+| 7 | 47 | 1 | 55 |
 
 **Compatibility labels:** 🟢 Bundled with core · 🟠 Needs verification · 🔵 In development / review · 🔴 Known legacy concern. **No third-party plugin is marked verified solely from repository metadata.**
 
@@ -18,22 +18,18 @@ A maintained inventory of the [Geeklog-Plugins](https://github.com/Geeklog-Plugi
 
 | Plugin / project | Source | Latest known version¹ | Compatibility status |
 | :--- | :--- | :---: | :--- |
-| [activities](https://github.com/hostellerie/activities) | hostellerie | — | 🔵 Review / development |
 | [adsense](https://github.com/Geeklog-Plugins/adsense) | Geeklog-Plugins | — | 🔵 Review / development |
 | [agent](https://github.com/Geeklog-Plugins/agent) | Geeklog-Plugins | — | 🔵 Review / development |
 | [amazonlinks](https://github.com/Geeklog-Plugins/amazonlinks) | Geeklog-Plugins | — | 🟠 Not verified |
 | [analytics](https://github.com/Geeklog-Plugins/analytics) | Geeklog-Plugins | 1.1 | 🔵 Review / development |
 | [autotags](https://github.com/Geeklog-Plugins/autotags) | Geeklog-Plugins | 1.1.3 † | 🟠 Not verified |
-| [awin](https://github.com/hostellerie/awin) | hostellerie | — | 🔵 Review / development |
 | [Bad-Behavior2](https://github.com/Geeklog-Plugins/Bad-Behavior2) | Geeklog-Plugins | — | 🟠 Not verified |
 | [ban](https://github.com/Geeklog-Plugins/ban) | Geeklog-Plugins | 2.0.4 † | 🟠 Not verified |
-| [bookings](https://github.com/hostellerie/bookings) | hostellerie | — | 🔵 Review / development |
 | [**Calendar**](https://github.com/Geeklog-Core/geeklog) | Core bundled | Bundled | 🟢 Bundled |
 | [captcha](https://github.com/Geeklog-Plugins/captcha) | Geeklog-Plugins | — | 🟠 Not verified |
 | [classifieds](https://github.com/Geeklog-Plugins/classifieds) | Geeklog-Plugins | — | 🔵 Review / development |
 | [contact](https://github.com/Geeklog-Plugins/contact) | Geeklog-Plugins | — | 🟠 Not verified |
 | [cookieconsent](https://github.com/Geeklog-Plugins/cookieconsent) | Geeklog-Plugins | — | 🔵 Review / development |
-| [cool](https://github.com/hostellerie/cool) | hostellerie | — | 🔵 Review / development |
 | [documents](https://github.com/Geeklog-Plugins/documents) | Geeklog-Plugins | — | 🔵 Review / development |
 | [dokuwiki](https://github.com/Geeklog-Plugins/dokuwiki) | Geeklog-Plugins | 1.9.0 | 🔴 Legacy concern |
 | [downloads](https://github.com/Geeklog-Plugins/downloads) | Geeklog-Plugins | 1.3.2 | 🟠 Not verified |
@@ -44,7 +40,6 @@ A maintained inventory of the [Geeklog-Plugins](https://github.com/Geeklog-Plugi
 | [forum](https://github.com/Geeklog-Plugins/forum) | Geeklog-Plugins | 2.9.5 | 🔴 Legacy concern |
 | [gus](https://github.com/Geeklog-Plugins/gus) | Geeklog-Plugins | 1.7.6.2 † | 🟠 Not verified |
 | [hello](https://github.com/Geeklog-Plugins/hello) | Geeklog-Plugins | — | 🟠 Not verified |
-| [hreflang](https://github.com/hostellerie/hreflang) | hostellerie | — | 🔵 Review / development |
 | [hub](https://github.com/Geeklog-Plugins/hub) | Geeklog-Plugins | — | 🔵 Review / development |
 | [IndexNow](https://github.com/Geeklog-Plugins/IndexNow) | Geeklog-Plugins | 1.2.1 | 🔵 Review / development |
 | [jquery](https://github.com/Geeklog-Plugins/jquery) | Geeklog-Plugins | — | 🟠 Not verified |
@@ -57,31 +52,24 @@ A maintained inventory of the [Geeklog-Plugins](https://github.com/Geeklog-Plugi
 | [menu](https://github.com/Geeklog-Plugins/menu) | Geeklog-Plugins | 1.2.8.1 † | 🟠 Not verified |
 | [messenger](https://github.com/Geeklog-Plugins/messenger) | Geeklog-Plugins | 1.9.6 † | 🟠 Not verified |
 | [migrator](https://github.com/Geeklog-Plugins/migrator) | Geeklog-Plugins | 1.0.0 | 🔵 Review / development |
-| [modulo](https://github.com/hostellerie/modulo) | hostellerie | — | 🔵 Review / development |
 | [monitor](https://github.com/Geeklog-Plugins/monitor) | Geeklog-Plugins | 1.5.0 | 🟠 Not verified |
-| [multisite](https://github.com/hostellerie/multisite) | hostellerie | — | 🔵 Review / development |
 | [nettools](https://github.com/Geeklog-Plugins/nettools) | Geeklog-Plugins | 2.1.4 † | 🟠 Not verified |
-| [nexpro](https://github.com/hostellerie/nexpro) | hostellerie | — | 🔵 Review / development |
 | [ogp](https://github.com/Geeklog-Plugins/ogp) | Geeklog-Plugins | 2.1.0 | 🟠 Not verified |
 | [paypal](https://github.com/Geeklog-Plugins/paypal) | Geeklog-Plugins | — | 🟠 Not verified |
 | [plugin-toolkit](https://github.com/hostellerie/plugin-toolkit) | hostellerie | — | 🔵 Review / development |
 | [**Polls**](https://github.com/Geeklog-Core/geeklog) | Core bundled | Bundled | 🟢 Bundled |
-| [profiles](https://github.com/hostellerie/profiles) | hostellerie | — | 🔵 Review / development |
 | [quiz](https://github.com/Geeklog-Plugins/quiz) | Geeklog-Plugins | — | 🔵 Review / development |
 | [radio](https://github.com/Geeklog-Plugins/radio) | Geeklog-Plugins | — | 🔵 Review / development |
 | [recaptcha](https://github.com/Geeklog-Plugins/recaptcha) | Geeklog-Plugins | — | 🟠 Not verified |
 | [**reCAPTCHA**](https://github.com/Geeklog-Core/geeklog) | Core bundled | Bundled | 🟢 Bundled |
 | [revisions](https://github.com/Geeklog-Plugins/revisions) | Geeklog-Plugins | — | 🔵 Review / development |
 | [searchrank](https://github.com/Geeklog-Plugins/searchrank) | Geeklog-Plugins | 1.3.0 | 🟠 Not verified |
-| [services](https://github.com/hostellerie/services) | hostellerie | — | 🔵 Review / development |
-| [serviceshub](https://github.com/hostellerie/serviceshub) | hostellerie | — | 🔵 Review / development |
 | [**Spamx**](https://github.com/Geeklog-Core/geeklog) | Core bundled | Bundled | 🟢 Bundled |
 | [**Staticpages**](https://github.com/Geeklog-Core/geeklog) | Core bundled | Bundled | 🟢 Bundled |
 | [store](https://github.com/Geeklog-Plugins/store) | Geeklog-Plugins | — | 🔵 Review / development |
 | [tag](https://github.com/Geeklog-Plugins/tag) | Geeklog-Plugins | — | 🟠 Not verified |
 | [themedit](https://github.com/Geeklog-Plugins/themedit) | Geeklog-Plugins | — | 🟠 Not verified |
 | [tickets](https://github.com/Geeklog-Plugins/tickets) | Geeklog-Plugins | — | 🔵 Review / development |
-| [travel](https://github.com/hostellerie/travel) | hostellerie | — | 🔵 Review / development |
 | [videos](https://github.com/Geeklog-Plugins/videos) | Geeklog-Plugins | 0.20.0 | 🟠 Not verified |
 | [vthemes](https://github.com/Geeklog-Plugins/vthemes) | Geeklog-Plugins | — | 🟠 Not verified |
 | [**Xmlsitemap**](https://github.com/Geeklog-Core/geeklog) | Core bundled | Bundled | 🟢 Bundled |
@@ -95,7 +83,7 @@ For every non-core plugin, test installation or upgrade on Geeklog 2.2.2, key ad
 ### Scope and maintenance
 
 - All public repositories discovered under Geeklog-Plugins are included **except** organization infrastructure/assets (`.github`, `artwork`, `memorandum`, `language-audit`). Those are not installable plugins.
-- Additional candidate repositories from hostellerie are listed separately and may be experimental or non-installable; inclusion is **not** an endorsement of release readiness.
+- Only explicitly public, plugin-related repositories from hostellerie absent from Geeklog-Plugins are listed separately. Private repositories are excluded. Additional candidate repositories are listed and may be experimental or non-installable; inclusion is **not** an endorsement of release readiness.
 - Plugins mirrored between the two accounts appear once, with Geeklog-Plugins as the canonical link.
 - Core plugin versions must be read from the Geeklog 2.2.2 distribution before publishing precise version claims.
 - To update the catalog, edit `README.md` and the `catalog` data in `index.html`; future automation should use GitHub API metadata without automatically changing compatibility verdicts.
