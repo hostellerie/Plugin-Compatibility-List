@@ -73,7 +73,7 @@ A maintained inventory of the [Geeklog-Plugins](https://github.com/Geeklog-Plugi
 | [vthemes](https://github.com/Geeklog-Plugins/vthemes) | Geeklog-Plugins | 1.6.1 | ? | ? | ? | ? | 🟠 Not verified |
 | [**Xmlsitemap**](https://github.com/Geeklog-Core/geeklog) | Core bundled | Bundled | ? | ? | ? | ? | 🟢 Bundled |
 
-¹ Versions obtained from the latest published GitHub Releases for 34 repositories on 2026-10-24; “—” means no latest release was confirmed (it does not imply the project has no tags or usable version).
+¹ Versions obtained from the latest published GitHub Releases for 33 repositories on 2026-10-24; “—” means no latest release was confirmed (it does not imply the project has no tags or usable version).
 
 **PHP support:** “Reported” means the maintainer reports PHP 5.6 and PHP 8.1 compatibility for recently worked-on plugins; the precise release/environment is not independently tested in this directory. “?” means not yet verified. PHP 7.4 or PHP 8.0 support must not be inferred automatically from tests on PHP 5.6 and PHP 8.1. Core compatibility and plugin release compatibility are separate claims.
 
